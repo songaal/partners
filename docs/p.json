@@ -1,0 +1,229 @@
+"C:\Program Files\nodejs\node.exe" C:\Projects\coupang-partners\app.js
+{
+  rCode: '0',
+  rMessage: '게시글 작성 시, "파트너스 활동을 통해 일정액의 수수료를 제공받을 수 있음"을 기재하셔야 합니다',
+  data: [
+    {
+      productId: 1367732170,
+      productName: '르엠마 브릿 니트탑 봄 원피스 (니트 & 나시원피스. 3컬러)',
+      productPrice: 7440,
+      productImage: 'https://static.coupangcdn.com/image/vendor_inventory/65ec/d1cd2eca25a4daab5ab3e5310e3ddd3b1c6045a547535b33be039ac6d6b2.jpg',
+      productUrl: 'https://link.coupang.com/re/AFFSDP?lptag=AF6721691&pageKey=1367732170&itemId=2399838350&vendorItemId=70394804081&traceid=V0-113-37b3fe90a0feb11f',
+      categoryName: '여성패션',
+      keyword: '여성패션',
+      rank: 1,
+      isRocket: false
+    },
+    {
+      productId: 1343372690,
+      productName: '휠라 클래식 킥스 뮬 1XM01000_001',
+      productPrice: 24130,
+      productImage: 'https://static.coupangcdn.com/image/product/image/vendoritem/2019/03/12/4404168781/4c59f273-6678-48c7-8ff7-19fcde74379f.jpg',
+      productUrl: 'https://link.coupang.com/re/AFFSDP?lptag=AF6721691&pageKey=1343372690&itemId=2370809535&vendorItemId=70327621920&traceid=V0-113-68cc66ec74b3393a',
+      categoryName: '여성패션',
+      keyword: '여성패션',
+      rank: 2,
+      isRocket: true
+    },
+    {
+      productId: 194484795,
+      productName: '엔젤 자수레이스블라우스',
+      productPrice: 7700,
+      productImage: 'https://static.coupangcdn.com/image/vendor_inventory/images/2019/03/06/11/0/d035f8ab-7dea-4f6b-986a-af1af9258492.jpg',
+      productUrl: 'https://link.coupang.com/re/AFFSDP?lptag=AF6721691&pageKey=194484795&itemId=557862331&vendorItemId=70195840564&traceid=V0-113-916acab66b63a650',
+      categoryName: '여성패션',
+      keyword: '여성패션',
+      rank: 3,
+      isRocket: false
+    },
+    {
+      productId: 309625193,
+      productName: '가비진 여성용 롱다리 엄청 편한 스판 밴딩팬츠 1713',
+      productPrice: 9900,
+      productImage: 'https://static.coupangcdn.com/image/retail/images/2019/09/27/10/7/41737169-9f8d-464c-a27b-396db222a004.jpg',
+      productUrl: 'https://link.coupang.com/re/AFFSDP?lptag=AF6721691&pageKey=309625193&itemId=975974132&vendorItemId=5390021144&traceid=V0-113-c2b9d016cbf3df00',
+      categoryName: '여성패션',
+      keyword: '여성패션',
+      rank: 4,
+      isRocket: true
+    },
+    {
+      productId: 185502198,
+      productName: '쿠팡 브랜드 - 베이스알파 에센셜 남녀공용 30수 라운드 반팔티 3p',
+      productPrice: 12490,
+      productImage: 'https://static.coupangcdn.com/image/retail/images/7028390930032-016cbfa5-5fa7-4b65-aba1-cd7d2d54861b.jpg',
+      productUrl: 'https://link.coupang.com/re/AFFSDP?lptag=AF6721691&pageKey=185502198&itemId=530600312&vendorItemId=4381872911&traceid=V0-113-d1b4e08408552d8e',
+      categoryName: '여성패션',
+      keyword: '여성패션',
+      rank: 5,
+      isRocket: true
+    },
+    {
+      productId: 1456931427,
+      productName: '지나블리스 루즈핏 빅사이즈 주름 티셔츠 2004067 반팔',
+      productPrice: 15800,
+      productImage: 'https://static.coupangcdn.com/image/vendor_inventory/3502/8d7f0438eee4270ed23259a562a7be4df9283cfa9e4479b5ccc2f59afbcc.jpg',
+      productUrl: 'https://link.coupang.com/re/AFFSDP?lptag=AF6721691&pageKey=1456931427&itemId=2507114654&vendorItemId=70500194657&traceid=V0-113-39f7de8c0f47256a',
+      categoryName: '여성패션',
+      keyword: '여성패션',
+      rank: 6,
+      isRocket: false
+    },
+    {
+      productId: 234270909,
+      productName: '리더스타 당일발송 박시핏 큰사이즈 자체제작 반팔 티셔츠',
+      productPrice: 7900,
+      productImage: 'https://static.coupangcdn.com/image/vendor_inventory/6d35/f1341d90635aeb332011f2287cbcc947374d253f63570a9b86d8fddde585.jpg',
+      productUrl: 'https://link.coupang.com/re/AFFSDP?lptag=AF6721691&pageKey=234270909&itemId=744102022&vendorItemId=4732061560&traceid=V0-113-c65190091adb8d30',
+      categoryName: '여성패션',
+      keyword: '여성패션',
+      rank: 7,
+      isRocket: false
+    },
+    {
+      productId: 1288012461,
+      productName: '타미 배색 남녀공용 커플 아노락 바람막이 자켓',
+      productPrice: 32000,
+      productImage: 'https://static.coupangcdn.com/image/vendor_inventory/7447/fd552cb1fc77d89a7f53e4689b7cb40a42a1e2c7063a684cbd75f25cbb44.jpg',
+      productUrl: 'https://link.coupang.com/re/AFFSDP?lptag=AF6721691&pageKey=1288012461&itemId=2298516226&vendorItemId=70295479617&traceid=V0-113-d530082ccc174edd',
+      categoryName: '여성패션',
+      keyword: '여성패션',
+      rank: 8,
+      isRocket: false
+    },
+    {
+      productId: 1307778633,
+      productName: '서면 에비뉴 [남녀공용] NK 스우시 앞포켓 오버핏 아노락',
+      productPrice: 39900,
+      productImage: 'https://static.coupangcdn.com/image/vendor_inventory/328e/b3a61c3f585b42056a137b790579b731808a1a561abd5a91bad595720ffb.jpg',
+      productUrl: 'https://link.coupang.com/re/AFFSDP?lptag=AF6721691&pageKey=1307778633&itemId=2323550225&vendorItemId=70320203748&traceid=V0-113-ee0daca0c1eb11c9',
+      categoryName: '여성패션',
+      keyword: '여성패션',
+      rank: 9,
+      isRocket: false
+    },
+    {
+      productId: 234201914,
+      productName: '메이킹유 1419 라우렌 루즈 롱 원피스',
+      productPrice: 7150,
+      productImage: 'https://static.coupangcdn.com/image/vendor_inventory/d396/61b05374412d6666387f4576a8714a998e67ad8b57d40872b9f88824398e.jpg',
+      productUrl: 'https://link.coupang.com/re/AFFSDP?lptag=AF6721691&pageKey=234201914&itemId=743874027&vendorItemId=70494476782&traceid=V0-113-9cfd1906907a1d16',
+      categoryName: '여성패션',
+      keyword: '여성패션',
+      rank: 10,
+      isRocket: false
+    },
+    {
+      productId: 195853020,
+      productName: '데일리앤 롱 플레어 샤스커트',
+      productPrice: 14700,
+      productImage: 'https://static.coupangcdn.com/image/vendor_inventory/8bb6/3a41df0b8032db10754e5ef16488aff47341a356f754741ad91038c04dab.jpg',
+      productUrl: 'https://link.coupang.com/re/AFFSDP?lptag=AF6721691&pageKey=195853020&itemId=566809326&vendorItemId=3584704367&traceid=V0-113-2b07830672b9ceb3',
+      categoryName: '여성패션',
+      keyword: '여성패션',
+      rank: 11,
+      isRocket: false
+    },
+    {
+      productId: 185502193,
+      productName: '쿠팡브랜드 - 베이스알파 순면 40수 무형광 원단 미디 여성 팬티5p',
+      productPrice: 11200,
+      productImage: 'https://static.coupangcdn.com/image/retail/images/5892937101079-5b5f0919-5704-47ea-b211-5e59b8bac3d9.jpg',
+      productUrl: 'https://link.coupang.com/re/AFFSDP?lptag=AF6721691&pageKey=185502193&itemId=530600276&vendorItemId=4381872686&traceid=V0-113-0ed53b4dac19cbd6',
+      categoryName: '여성패션',
+      keyword: '여성패션',
+      rank: 12,
+      isRocket: true
+    },
+    {
+      productId: 1235035507,
+      productName: '데일리앤 아이콘 브이넥 무지 긴팔 봄 티셔츠',
+      productPrice: 7700,
+      productImage: 'https://static.coupangcdn.com/image/vendor_inventory/9561/eb4ccb839a997d0cafa620941e6c8e7864ecb03d5074d9e1dd9d6dfda7d0.jpg',
+      productUrl: 'https://link.coupang.com/re/AFFSDP?lptag=AF6721691&pageKey=1235035507&itemId=2229473977&vendorItemId=5302335677&traceid=V0-113-6e7c6ab5edd98992',
+      categoryName: '여성패션',
+      keyword: '여성패션',
+      rank: 13,
+      isRocket: false
+    },
+    {
+      productId: 277866454,
+      productName: '수맘 자체제작 봄 여름 브이넥 20수 티셔츠 반팔',
+      productPrice: 7900,
+      productImage: 'https://static.coupangcdn.com/image/vendor_inventory/0d9b/b69c4a6485c97ff7cd4e0d514be1140237d34b838e55d99095bc15e87e6f.jpg',
+      productUrl: 'https://link.coupang.com/re/AFFSDP?lptag=AF6721691&pageKey=277866454&itemId=880566214&vendorItemId=5220485447&traceid=V0-113-9e626a7a50dab66f',
+      categoryName: '여성패션',
+      keyword: '여성패션',
+      rank: 14,
+      isRocket: false
+    },
+    {
+      productId: 258699498,
+      productName: '플레이팝 여성용 스판좋은 슬림배기 청바지',
+      productPrice: 19900,
+      productImage: 'https://static.coupangcdn.com/image/retail/images/2019/07/12/14/8/0e54feab-fcfb-421e-8e11-f7aca1c2ce58.jpg',
+      productUrl: 'https://link.coupang.com/re/AFFSDP?lptag=AF6721691&pageKey=258699498&itemId=810974676&vendorItemId=5062685360&traceid=V0-113-7485820963d1883e',
+      categoryName: '여성패션',
+      keyword: '여성패션',
+      rank: 15,
+      isRocket: true
+    },
+    {
+      productId: 1134827331,
+      productName: '[유디코] 여성 빅사이즈 소매 레이스 브이넥 티셔츠(3컬러) 긴팔 티셔츠',
+      productPrice: 9800,
+      productImage: 'https://static.coupangcdn.com/image/vendor_inventory/5e84/4ea2433b3e21dc7efc9c6b3dfcb8465a026b07d84c585d51b48f59d9edb8.jpg',
+      productUrl: 'https://link.coupang.com/re/AFFSDP?lptag=AF6721691&pageKey=1134827331&itemId=2104209963&vendorItemId=70446317115&traceid=V0-113-ac7fe217ac4eff3e',
+      categoryName: '여성패션',
+      keyword: '여성패션',
+      rank: 16,
+      isRocket: false
+    },
+    {
+      productId: 209868314,
+      productName: '가비진 여성용 쫀쫀밴딩 편해요 부츠컷',
+      productPrice: 8900,
+      productImage: 'https://static.coupangcdn.com/image/retail/images/597391938544261-06186a21-f88d-4b62-96e8-67d2b1b64efd.jpg',
+      productUrl: 'https://link.coupang.com/re/AFFSDP?lptag=AF6721691&pageKey=209868314&itemId=624389485&vendorItemId=4639684123&traceid=V0-113-7fcee9002f090a4f',
+      categoryName: '여성패션',
+      keyword: '여성패션',
+      rank: 17,
+      isRocket: true
+    },
+    {
+      productId: 1382024268,
+      productName: '잘빠진 여성용 편안한 두줄라인 팬츠',
+      productPrice: 9900,
+      productImage: 'https://static.coupangcdn.com/image/retail/images/2019/05/15/11/7/7322f8fb-ee9e-4441-9206-bc0987b8553e.jpg',
+      productUrl: 'https://link.coupang.com/re/AFFSDP?lptag=AF6721691&pageKey=1382024268&itemId=698341399&vendorItemId=4783584789&traceid=V0-113-7f58ee2bbd0dae79',
+      categoryName: '여성패션',
+      keyword: '여성패션',
+      rank: 18,
+      isRocket: true
+    },
+    {
+      productId: 315878783,
+      productName: '포플러앤씨 테이끄 브이 펀칭 블라우스',
+      productPrice: 15900,
+      productImage: 'https://static.coupangcdn.com/image/vendor_inventory/images/2019/08/07/15/0/11055d05-b6a1-494c-9cc3-0194f06a7b66.jpg',
+      productUrl: 'https://link.coupang.com/re/AFFSDP?lptag=AF6721691&pageKey=315878783&itemId=1004308987&vendorItemId=5213241254&traceid=V0-113-543f2e9af392d67a',
+      categoryName: '여성패션',
+      keyword: '여성패션',
+      rank: 19,
+      isRocket: false
+    },
+    {
+      productId: 281182457,
+      productName: '잘빠진 여성용 1719 허리밴드 델리지 조거팬츠',
+      productPrice: 9900,
+      productImage: 'https://static.coupangcdn.com/image/retail/images/2019/08/14/10/9/34a8228e-7d47-4b6b-940a-c3b12125902a.jpg',
+      productUrl: 'https://link.coupang.com/re/AFFSDP?lptag=AF6721691&pageKey=281182457&itemId=892683375&vendorItemId=5245307541&traceid=V0-113-fe37f67a8f0caec5',
+      categoryName: '여성패션',
+      keyword: '여성패션',
+      rank: 20,
+      isRocket: true
+    }
+  ]
+}
+
+Process finished with exit code 0
