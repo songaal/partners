@@ -13720,7 +13720,7 @@ img {
   line-height: 1.15em; }
 
 .item-price {
-  font-size: 1.125rem;
+  font-size: 1.5rem;
   font-family: "Muli", sans-serif;
   color: #000; }
   .item-price s {
@@ -15017,5 +15017,5 @@ div.code-toolbar > .toolbar {
 /*# sourceMappingURL=style.css.map */
 
 .ft-sm {
-  font-size: 0.8rem;
+  font-size: 0.6rem; 
 }
