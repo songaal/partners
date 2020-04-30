@@ -206,6 +206,7 @@
       //로켓배송 내일날짜요일
       $('.tomorrow-delivery').text('내일(' + dayName + ') ' + month + '/' + day + ' 도착 보장');
 
+      
       // lavalamp
       $('.lavalamp').lavalamp({
         setOnClick: true,
