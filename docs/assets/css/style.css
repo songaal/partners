@@ -13198,7 +13198,7 @@ aside .btn-group-square .btn {
     letter-spacing: .05em;
     color: #6c757d; }
     .nav .nav-link.active {
-      color: #000;
+      color: #000; font-weight: bold;
       background: transparent; }
     .nav .nav-link:hover {
       color: #000; }
@@ -13232,7 +13232,7 @@ aside .btn-group-square .btn {
   .nav-tabs[class*="flex"] .nav-item:not(:last-child) {
     margin-bottom: 0.625rem; }
   .nav-tabs .nav-item:not(:last-child) {
-    margin-right: 1.25rem; }
+    margin-right: 1.25rem; margin-bottom: 0.5rem;}
   .nav-tabs .nav-link {
     padding: 0 0 0.3125rem 0;
     border: 0;
