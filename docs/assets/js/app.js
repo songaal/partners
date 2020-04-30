@@ -193,10 +193,18 @@
       });
     },
 
+    
 
     // apps
     Apps: function () {
-      
+      const week = new Array('일', '월', '화', '수', '목', '금', '토');  
+      var today = new Date(); var tomorrow = new Date(today.valueOf() + (24*60*60*1000));
+      let month = tomorrow.getMonth() + 1; 
+      let day = tomorrow.getDate();
+      var dayName = week[tomorrow.getDay()];
+      //로켓배송 내일날짜요일
+      $('.tomorrow-delivery').text('내일(' + dayName + ') ' + month + '/' + day + ' 도착 보장');
+
       // lavalamp
       $('.lavalamp').lavalamp({
         setOnClick: true,

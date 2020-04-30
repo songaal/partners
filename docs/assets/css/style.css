@@ -62,6 +62,11 @@ body {
 [tabindex="-1"]:focus {
   outline: 0 !important; }
 
+.delivery {
+padding-top: 2px;
+padding-bottom: 4px;
+}
+
 hr {
   box-sizing: content-box;
   height: 0;
@@ -131,11 +136,11 @@ sup {
   top: -.5em; }
 
 a {
-  color: #4F944F;
+  /* color: #4F944F; */
   text-decoration: none;
   background-color: transparent; }
   a:hover {
-    color: #346234;
+    /* color: #346234; */
     text-decoration: none; }
 
 a:not([href]):not([tabindex]) {
@@ -13624,13 +13629,13 @@ img {
   height: 1.25rem;
   position: relative;
   font-size: 0.9rem;
+  font-family: tahoma;
   color: #ae0000; }
   .product-price > * {
     display: flex;
     align-items: center;
     line-height: 1.25rem;
     vertical-align: top;
-    font-family: "Muli", sans-serif; 
     }
   .product-price > strong {
     font-weight: bold;
@@ -15027,3 +15032,12 @@ div.code-toolbar > .toolbar {
 .ft-sm {
   font-size: 0.6rem; 
 }
+.item-review {
+  display: block;
+  float: left;
+  width: 76px;
+  height: 15px;
+  background: url(//img1a.coupangcdn.com/image/fodium/desktop/widget-sdp-alsoviewedproducts-20160622.png) no-repeat -39px -43px;
+  text-indent: -9999px;
+}
+
