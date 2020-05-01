@@ -199,6 +199,20 @@
                     </div>
                   </div>
 
+                  <div class="col-4 col-sm-3 col-md-2 w-pad-0 d-flex justify-content-center">
+                    <div class="review">
+                      <figure class="product-image video-thumb">
+                        <a href="#!" class="btn btn-red d-flex flex-wrap align-items-center" data-toggle="modal" data-target="#uploadModal" style="height:120px;width:120px">
+                          <img src="../assets/images/plus.svg" alt="리뷰올리기" style="filter: invert(1);">
+                        </a>
+                      </figure>
+                    </div>
+                  </div>
+
+
+                  
+                  
+
 
                 </div>
               </div>
@@ -332,6 +346,40 @@
             </div>
         </div>
     </footer>
+
+    <div class="modal" id="uploadModal" tabindex="-1" role="dialog">
+      <div class="modal-dialog modal-dialog-centered" role="document">
+        <div class="modal-content">
+          <div class="modal-header">
+            <h5 class="modal-title">동영상 리뷰올리기</h5>
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+              <span aria-hidden="true">&times;</span>
+            </button>
+          </div>
+          <div class="modal-body">
+            <form>
+              <div class="form-group">
+                <!-- <h5>동영상</h5> -->
+                <label for="reviewMovie">동영상</label>
+                <div class="custom-file">
+                  <input type="file" class="custom-file-input" id="customFile">
+                  <label class="custom-file-label" for="customFile">Choose file</label>
+                </div>
+              </div>
+              <div class="form-group">
+                <!-- <h5>별점</h5> -->
+                <label for="reviewMovie">별점</label>
+                <input type="range" class="custom-range" id="customRange1" min="1" max="5">
+              </div>
+            </form>
+          </div>
+          <div class="modal-footer">
+            <button type="button" class="btn btn-secondary" data-dismiss="modal">취소</button>
+            <button type="button" class="btn btn-red">올리기</button>
+          </div>
+        </div>
+      </div>
+    </div>
 
     <script src="../assets/js/vendor.min.js"></script>
     <script src="../assets/js/app.js"></script>
